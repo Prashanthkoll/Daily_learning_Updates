@@ -1,0 +1,14 @@
+# 01/11/25 and 02/11/25
+# PLAN
+* reset the setup of pawlly repository.
+* login using different roles.
+* login in to pawlly mobile app as customer.
+* make video and images of customer user role.
+* making pdf of all user images.
+
+# Completed
+* reset the setup of pawlly repository.
+* login using different roles.
+* login in to pawlly mobile app as customer.
+* make video and images of customer user role.
+* making pdf of all user images.
