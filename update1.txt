@@ -1,0 +1,10 @@
+# 03/11/25
+# PLAN
+* Relating the images of customer user to ER Diagrams tables
+* Change the xampp(php) to php(8.4v)
+* Finding How the branches are adding
+
+# Compleated
+* Relating the images of customer user to ER Diagrams tables
+* Change the xampp(php) to php(8.4v)
+* Finding How the branches are adding
